@@ -1,0 +1,16 @@
+body {
+  font-family: cursive;
+  text-align: center;
+  font-size: 14pt;
+
+}
+
+#puzzlearea {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;;
+}
+
+.boxes {
+  
+}
